@@ -1,0 +1,4 @@
+mysql:
+  rootPassword: "rootpassword"
+  username: "mediawikiuser"
+  password: "securepassword"

@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: users-config
+data:
+  admin-username: "admin"
+  admin-email: "admin@example.com"
